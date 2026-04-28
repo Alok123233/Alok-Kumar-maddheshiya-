@@ -1,0 +1,5 @@
+1. GitHub.com पर account बनाओ (free)
+2. "New Repository" बनाओ → नाम रखो "username.github.io" 
+3. index.html file upload karo
+4. Settings → Pages → Source: Deploy from branch → main → Save
+5. 2 मिनट में website live: https://username.github.io
